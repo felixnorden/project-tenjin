@@ -4,16 +4,26 @@
 
 ### Goals
 
-### Task distribution
+## Tasks
+
+## Task distribution
+
+### Tuyen 🤩 
+
+### Elias 🤪
+
+### Jonatan 🥳
+
+### Felix 🤔
 
 ## Problems
 
-### Tuyen
+### Tuyen 🤩 
 
-### Elias
+### Elias 🤪
 
-### Jonatan
+### Jonatan 🥳
 
-### Felix
+### Felix 🤔
 
 ## Takeaways and goals until next meeting
