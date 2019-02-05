@@ -10,7 +10,7 @@
 
 - Have a clear picture of how the visualisation should be done
 - Structured the project planning report
-- Hava begun writing the project planning
+- Have begun writing the project planning
 
 ## Tasks
 
