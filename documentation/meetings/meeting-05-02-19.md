@@ -14,11 +14,11 @@
 
 ## Tasks
 
-- Create 3 propositional statements that is diverse, and include the different operators.
+- Create 3 propositional statements that are diverse, and include the different operators.
   - One simple statement, involving some form of elimination rule.
   - One intermediate statement, including at least one ∨-operator.
   - One intermediate/advanced statement, including at least one introduction rule and both ¬- and ⟶-operators.
-- Solve these statements and with the mentioned visualisation, and see if they are consistent.
+- Solve these statements and mirror the solutions with the mentioned visualisation, and see if they are consistent.
   - Point out possible flaws/pitfalls.
   - Try solving with sequent calculus.
   - Try solving with natural deduction.
