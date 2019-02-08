@@ -1,6 +1,5 @@
-[Back to top](./..)
-
 # Documentation
+[Back to top](../README.md)
 
 Here you will find all of the documentation that has been done during the
 project.
