@@ -5,5 +5,5 @@ project.
 
 You can find both meeting protocols and project diary entries in:
 
-- [Meetings](./documentation/meetings)
-- [Project Diary](./documentation/diary)
+- [Meetings](./meetings)
+- [Project Diary](./diary)
