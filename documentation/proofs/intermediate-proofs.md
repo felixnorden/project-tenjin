@@ -23,3 +23,24 @@ Conclusion : B | C
     ___
 10. B | C            -- 6-7,8-9,CP
 ```
+## Or elimination 
+
+```hs
+Premises:
+ A
+ (A & C) | C
+
+Conclusion: C
+
+---------------
+1. A            -- Premise
+2. (A & C) | C  -- Premise
+___
+3. C            -- Assumption
+___
+___
+4. (A & C)      -- Assumption
+5. C            -- &E(1, 4)
+___
+6. C            -- |E(3, 4-5)
+```
