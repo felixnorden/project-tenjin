@@ -1,6 +1,8 @@
 # Intermediate proofs
 
-## Or condition proof 
+## Or condition proof
+
+### Natural deduction
 
 ```hs
 Premises:
@@ -23,7 +25,18 @@ Conclusion : B | C
     ___
 10. B | C            -- 6-7,8-9,CP
 ```
-## Or elimination 
+
+### Sequent calculus
+
+``` hs
+(A | B) & C, B -> C ⊢ B | C
+->
+(A | B) & C, B -> C ⊢ B, C    -- |R
+->
+(A | B), C, B -> C ⊢ B, C □   -- &L
+```
+
+## Or elimination
 
 ```hs
 Premises:

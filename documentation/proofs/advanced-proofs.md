@@ -2,6 +2,8 @@
 
 ## Or elimination and Or-And conclusion
 
+### Natural deduction
+
 ```hs
 Premises:
  (A | B) -> C
@@ -30,8 +32,35 @@ Conclusion: (C | A) & B
 13. C | A             -- 12.|I
 14. (C | A) & B       -- 13,6.&I
    ___
-15. (C | A) & B       -- 7-9,10-14.CP 
-``` 
+15. (C | A) & B       -- 7-9,10-14.CP
+```
+
+### Sequent calculus
+
+(A | B) -> C
+ C -> B
+ D | A
+ D & B
+
+``` hs
+(A | B) -> C, C -> B, D | A, D & B ⊢ (C | A) & B
+->
+(A | B) -> C, C -> B, D | A, D & B ⊢ (C | A) & B  -- &L
+->
+(A | B) -> C, C -> B, D | A, D, B ⊢ (C | A) & B   -- &R
+->
+    (A | B) -> C, C -> B, D | A, D, B ⊢ B □
+  ->
+    (A | B) -> C, C -> B, D | A, D, B ⊢ C | A   -- |R
+  ->
+    (A | B) -> C, C -> B, D | A, D, B ⊢ C, A    -- ->L
+  ->
+      C -> B, D | A, D, B ⊢ C, A, (A | B)       -- |R
+    ->
+      C -> B, D | A, D, B ⊢ C, A, B □           -- |R
+  ->
+      C, C -> B, D | A, D, B ⊢ C, A □
+```
 
 ## Conjuction of a disjunction and a conjunction
 

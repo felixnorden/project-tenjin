@@ -2,12 +2,14 @@
 
 ## And elimination and Modus Ponens
 
+### Natural deduction
+
 ```hs
 Premises:
  A & B
  B -> C
 
-Conclusion : c
+Conclusion : C
 
 ---------------
 1. A & B    -- Premise
@@ -15,6 +17,18 @@ Conclusion : c
 3. B        -- 1,&E
 4. C        -- 2,3,MP
 ```
+
+### Sequent calculus
+
+``` hs
+A & B, B -> C ⊢ C
+->
+A, B, B -> C ⊢ C    -- &L
+->
+A, C ⊢ C □          -- MP
+
+```
+
 ## Implies elimination
 
 ```hs
