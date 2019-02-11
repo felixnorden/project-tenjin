@@ -2,6 +2,8 @@
 
 ## Work tasks
 
+In this section, the tasks that the team has decided on for the week are presented. Each of the listed tasks will be then be present under "Finished tasks" or "Unfinished tasks".
+
 ### Finished tasks
 
 ### Unfinished tasks
@@ -14,4 +16,4 @@
 
 ## Meetings
 
-[Meeting description](link to agenda)
+- [Meeting description](link to agenda)

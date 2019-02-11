@@ -1,4 +1,4 @@
-# Meeting [date]
+# Meeting 12-02-19
 
 ## Plan for the week
 
