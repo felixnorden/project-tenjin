@@ -1,4 +1,4 @@
-# Diary [week]
+# Diary Week 3
 
 This week, the workload has been a bit on the lighter side due to three out of four people of the team having a heavier workload from the two other courses.
 
