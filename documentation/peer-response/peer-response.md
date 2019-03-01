@@ -9,5 +9,5 @@
 - Great language and structure, easy to read.
 - Maybe a bit more information about what kind of visualisation we want to produce. An image or a more in-depth description of how the project will look like.
 - Maybe talk more about how one can make the game fun.
-- How will we try to find out about our problem statements. 
+- How will we try to find out about our problem statements.
 - No need to enumerate only one Appendix!
