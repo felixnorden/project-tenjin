@@ -2,17 +2,15 @@
 
 ## Introduction (First slide)
 
-Although logic is essential in both everyday life and science, it is not formally taught until university. Every time you make an argument, or draw conclusion based on a set of **premises**, you form a logical statement. Despite this fact, very few have been introduced to the subject. The reason is probably due to limited time and the wide range of subjects needed to be taught in compulsory school. This means that some subjects need to be prioritized over others.
+Although logic is essential in both everyday life and science, it is not formally taught until university. Every time you make an argument, or draw conclusions based on some information, you form a logical statement. Despite this fact, very few have been introduced to the subject. The reason is probably due to limited time and the wide range of subjects needed to be taught in compulsory school. This means that some subjects need to be prioritized over others.
 
-However, adding logical reasoning to your toolbox early on might be beneficial in many aspects, both in other school subjects and in everyday life. For example, there has been increasing pressure of introducing programming into compulsory school. But learning programming without having a small grasp of logic would be like putting the cart before the horse - **it introduces unnecessary complexity**. Taking this approach might also inhibit a deeper understanding of programming.
+However, adding logical reasoning to your toolbox early on might be beneficial in many aspects, both in other school subjects and in everyday life. For example, programming is beginning to be taught in compulsory school. But not having a grasp on logic when learning programming is like putting the cart before the horse. Taking this approach might also inhibit a deeper understanding of programming.
 
 ## Project Motivation (Second slide)
 
-Puzzles have been a part of human recreation over millennia, which indicates that people enjoy being challenged in logical thinking. However, quite few do proofs in logic calculi for the same stimuli. Nevertheless, doing a proof in a formal calculus can be seen as a game.
+Puzzles have been a part of human recreation over millennia, which indicates that people enjoy being challenged in logical thinking. With the introduction of smartphones, puzzles have found a new home as games and are more accessible and engaging than ever before. However, quite few do proofs in logic calculi for the same stimuli.
 
-With the rise of technology, another level of interaction has been introduced - smartphones. More and more of todays media and entertainment is being consumed through this medium, and puzzles are no exception.
-
-**FILL OUT WITH MOTIVATION OF WHY WE WANT TO CREATE A Puzzle game MODELED AFTER LOGICS AND PROOFS USING SMARTPHONES AS THE MEDIUM**
+This is where our project comes in. Because, it is often unknown that doing a proof in a formal calculus is very similar to playing a game. Therefore, providing a smartphone game modeled after logic and proofs might be an efficient way to expose people to the logical reasoning used when creating proofs.
 
 ## Project Ambitions (Third slide)
 
