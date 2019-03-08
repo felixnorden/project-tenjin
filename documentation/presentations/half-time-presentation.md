@@ -8,7 +8,7 @@ However, adding logical reasoning to your toolbox early on might be beneficial i
 
 ## Project Motivation (Second slide)
 
-Puzzles have been a part of human recreation over millennia, which indicates that people enjoy being challenged in logical thinking. With the introduction of smartphones, puzzles have found a new home as games and are more accessible and engaging than ever before. However, quite few do proofs in logic calculi for the same stimuli.
+Puzzles have been a part of human recreation over millennia, which indicates that people enjoy being challenged in logical thinking. With the introduction of smartphones, puzzles have found a new home as games and are more accessible and engaging than ever before. However, quite few do proofs in logic calculi for the same stimulation.
 
 This is where our project comes in. Because, it is often unknown that doing a proof in a formal calculus is very similar to playing a game. Therefore, providing a smartphone game modeled after logic and proofs might be an efficient way to expose people to the logical reasoning used when creating proofs.
 
@@ -22,7 +22,9 @@ In this project, we strive to create a smartphone game that:
 
 ## Crash course in Sequent Calculus (Fourth slide)
 
-Present the slides but by bit.
+For our application we will focus on implementing the three main connectives Negation, Disjunction and Conjunction. There are other operators, such as implication, that could be implemented later. But these three are enough to model all logical statements in propositional logic.
+
+In Sequent calculus you also make use of a “meta” implication, called the turnstile, in order to separate the hypotheses from the conclusion An example sequent might look something like this. In our application we will work from “upwards”, i.e we cannot create operators but only eliminate them according to certain rules. For example:
 
 ## Project Plan (Fifth slide)
 
