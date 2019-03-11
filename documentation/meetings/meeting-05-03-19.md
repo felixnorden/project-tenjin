@@ -43,7 +43,3 @@
 ## Problems
 
 - Exams are coming up, making it harder to find time for meetings and mob-work
-
-## Takeaways and goals until next meeting
-
-
