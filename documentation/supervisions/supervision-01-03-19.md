@@ -9,7 +9,7 @@
 - Possible properties of difficulty:
   - Gather data about:
     - solution times
-    - # of steps
+    - \# of steps
 - Maybe introduce "weakening" operations to reduce noise of the proofs.
 - PVS Prover - <http://pvs.csl.sri.com/>
 - Frank Pfenning - <http://www.cs.cmu.edu/~fp/>
