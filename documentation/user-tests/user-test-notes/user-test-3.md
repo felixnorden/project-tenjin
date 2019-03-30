@@ -1,6 +1,6 @@
 # First paper-prototype user test
 ## Subject information
-14 year-old male, studying at upper secondary school.
+14 year-old male, studying in compulsary school.
 
 ## Planet pairs, rotating and force fields
 The subject expressed that the easiest way to handle a force field was to drag out each of the planets one by one.
