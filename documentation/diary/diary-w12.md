@@ -1,6 +1,6 @@
-# Diary Week 11
+# Diary Week 12
 
-Last week went better than the week before. A considerable amount was done: the game-module is as good as finished. The tree library for the code has been put on hold for so long. More has been written on the report (mostly theory). The UI has been worked on more, the elements have been draften and converted into vector graphics and added as assets. 
+This week went better than the week before. A considerable amount was done: the game-module is as good as finished. The tree library for the code has been put on hold for so long. More has been written on the report (mostly theory). The UI has been worked on more, the elements have been drafted and converted into vector graphics and added as assets.
 
 ## Work tasks
 
