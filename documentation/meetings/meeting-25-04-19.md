@@ -35,17 +35,3 @@ In unity, if there is time, we want create scripts for reading a level in the co
 ### Felix 🤔
 
 - Report writing
-
-
-
-## Problems
-
-### Tuyen 🤩
-
-### Elias 🤪
-
-### Jonatan 🥳
-
-### Felix 🤔
-
-## Takeaways and goals until next meeting
