@@ -1,0 +1,50 @@
+Outline
+
+- Syfte, frågeställningar och kriterier
+- Börja introducera visalueringsprocessen för att lösa den frågeställningen
+  - Benchmark proofs för att snabbt kunna sålla bort opassande visualiseringar
+  - Presentera våra olika visualiseringar i kronologisk ordning, och berätta varför de två första inte klarade testprocessen pga benchmark proofs
+    - Introducera avgränsning av konnektiv efter visualisering 2 för att göra processen enklare och visualiseringen mindre plottrig.
+  - Gå in på pappers-prototyp och användartester för att validera visualiseringens intuitiva funktionalitet
+  - Presentera resultatet av användartesterna
+    - Användarna kunde följa spelet
+    - Två som hade lite svårt att förstå
+    - Gester som användarna valde själva
+  - Slutresultat: Space theme, eftersom det funkade
+- Börja introducera utvecklingsprocessen för att lösa den andra frågeställningen
+  - Modellering problemdomänen i form av en domänmodell (dvs. backend/logik)
+  - Uppställning av use cases genom en RAD
+    - Lista huvudfunktionaliteten för en MVP utifrån RAD
+  - Modellera domänmodellen till ett klassdiagram, med huvudfunktionaliteten i åtanke
+  - Presentation av valt programspråk och ramverk (C# och Unity)
+    - Lista våra kriterier
+    - Påvisa att C# och Unity är en toppkandidat, och därmed vårt val
+    - Introducera likheter mellan Java och C# (namespace = package, assembly = jar)
+  - Prata om projektstrukturen för att uppfylla våra kriterier
+  - Kort introducera att vi använde TDD för att utveckla vårt klassbibliotek Tenjin Core
+  - Övergå till att presentera hur Tenjin Core fungerar, presentera namespaces:
+    - Logic
+      - Ämnat för att representera beteendet inom olika logiker
+      - Presentera PropositionalOperator för vår logik
+    - Elements
+      - Ämnat för att konstruera valda propositioner (atomic, neg, dis, con)
+      - Visa snippet för hur man konstruerar en proposition som exempel?
+    - Game
+      - Ämnat för att hantera logiken av en spelnivå
+      - Visa snippet för hur Level interageras med
+- Diskussion kring olika beslut
+  - Gesterna vi fick gav en del gester som kanske var olämpliga för en mindre skärm, förmodligen pga stor prototyp
+  - De två användare som var förvirrade kan dels förklaras av att användartesterna inte var strikt outlinade, vilket gjorde att testarna själva var osäkra på utformningen testerna.
+  - Funktionell representation istället för C#, då funktionell representation är mer lik matematisk representation.
+  - Framtida arbete:
+    - Completing the game
+    - Generating proofs enligt ett av kriterierna
+    - Andra logiker
+    - Fler operatorer
+    - Alternativa visualiseringar
+- Demo (om vi kan)
+- Slutsatser: 
+  - Har vi uppfyllt våra frågeställningar? Ja!
+    - Logik-modul för att "accurate" implementation av classisk propositionslogik i SC
+    - Visualisering som är på en introducerande nivå, eftersom testresultaten påvisade att majoriteten förstod prototypen.
+  
